@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
     	
-    <configuration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1545100064" name="Debug">
+    <configuration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.831116582" name="Debug">
         		
         <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
             			
@@ -25,7 +25,7 @@
         	
     </configuration>
     	
-    <configuration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1265152994" name="Release">
+    <configuration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1017151912" name="Release">
         		
         <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
             			
