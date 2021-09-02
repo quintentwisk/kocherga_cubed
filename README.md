@@ -1,2 +1,2 @@
-# kocherga_cubed
+# Kocherga Cubed
 STM32 bootloader with Kocherga
